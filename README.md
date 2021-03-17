@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # _Practice Paragraphs/Fido_
 
 #### _Make a webpage of taking care of Fido as well as introduction to paragraphs and classes._
@@ -56,3 +57,6 @@ SOFTWARE.
 
 
 
+=======
+# styles-css
+>>>>>>> e575499c3f1fe45f24209a777da8ed30ec89b73f
